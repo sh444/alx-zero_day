@@ -1,1 +1,1 @@
-My first readme
+hello_day_zero
