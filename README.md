@@ -1,1 +1,0 @@
-hello_day_zero
